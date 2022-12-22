@@ -22,6 +22,9 @@ author: Franjo Pehar
 navbar-links:
   O nama: "onama"
   Program: "program"
+  Prijavnice:
+    - Za tvrtke: "https://bit.ly/jobit2023-tvrtke"
+    - Za IT kviz: "https://bit.ly/jobit2023-kviz"
 
 ################
 # --- Logo --- #
