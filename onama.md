@@ -1,15 +1,24 @@
 ---
 layout: page
 title: O nama
-subtitle: Preddiplomski stručni studij informacijskih tehnologija
+subtitle: Preddiplomski stručni studij informacijskih tehnologija u suradnji s partnerima u provedbi studetnske prakse
 ---
-My name is Inigo Montoya. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Program prvog JobIT 2023. dana IT karijera Sveučilišta u Zadru sastavljen je u suradnji sa sljedećim tvrtkama s kojima su od ranije potpisani ugovori o izvođenju Stručne prakse: 
+- Aspekt
+- Rinels d.o.o
+- DeepIT. d.o.o
+- Fer projekt d.o.o.
+- Cognism d.o.o
+- Plava tvornica d.o.o
+- Lemon Mint d.o.o
+- Cromaris d.d
+- Opća bolnica Zadar
+- OTP banka Hrvatska d.d.
+- Pakel d.o.o
+- Retis informatika d.o.o
+- Helmholz sistemi d.o.o.
+- TRILIX d.o.o.
+- WOD Software Solutions d.o.o.
 
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Jeste li i vi zainteresirani za suradnju u pripremi i provedbi Stručne prakse? Slobodno nam se obratite na [sit@unizd.hr](mailto:sit@unizd.hr)
