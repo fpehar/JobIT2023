@@ -11,4 +11,3 @@
 
 # Popis aktivno uključenih ustanova i udruga
 - Zadar Developers Hub
-- Udruga za robotiku, inovativnost i kreativnost ROBOTIC
