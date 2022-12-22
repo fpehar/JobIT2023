@@ -1,3 +1,13 @@
+---
+layout: post
+title: Informacije za sudionike JobIT-a 2023.
+subtitle: studenti, učenici i ostali zainteresirani građani
+cover-img: /assets/img/path.jpg
+thumbnail-img: /assets/img/thumb.png
+share-img: /assets/img/path.jpg
+tags: [sudionici, studenti, učenici]
+---
+
 # Informacije za studente i ostale sudionike
 
 Pridruži nam se na JobIT 2023. danu IT karijera i uspostavi kontakte s predstavnicima tvrtki iz IT sektora. Tko zna, možda među njima prepoznaš potencijalnog poslodavca ili dobiješ ideju za buduću karijeru!?
