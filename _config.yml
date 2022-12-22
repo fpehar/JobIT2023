@@ -20,11 +20,8 @@ author: Franjo Pehar
 ###############################################
 
 navbar-links:
-  About Me: "onama"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  O nama: "onama"
+  Program: "program"
 
 ################
 # --- Logo --- #
