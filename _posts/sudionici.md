@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Informacije za sudionike JobIT-a 2023.
-subtitle: studenti, učenici i ostali zainteresirani građani
+subtitle: studenti, srednjoškolci, nastavnici i ostali zainteresirani sugrađani
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
-tags: [sudionici, studenti, učenici]
+tags: [sudionici, studenti, učenici, srednjoškolci]
 ---
 
 # Informacije za studente i ostale sudionike
