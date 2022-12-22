@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Informacije za studente i srednjoškolce
-subtitle: sve bitne informacije o JobIT 2023. namijenjene studentima, srednjoškolcima, nastavnicima i ostalim zainteresiranim sugrađanima
+subtitle: sve što biste trebali znati o JobIT 2023.
 cover-img: /assets/img/bridge.jpg
-share-img: /assets/img/path.jpg
+share-img: /assets/img/bridge.jpg
 tags: [sudionici, studenti, učenici, srednjoškolci]
 ---
 
