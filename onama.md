@@ -22,3 +22,11 @@ Program prvog JobIT 2023. dana IT karijera Sveučilišta u Zadru sastavljen je u
 - WOD Software Solutions d.o.o.
 
 Jeste li i vi zainteresirani za suradnju u pripremi i provedbi Stručne prakse? Slobodno nam se obratite na [sit@unizd.hr](mailto:sit@unizd.hr)
+
+## Lokalni organizatori
+
+- Ante Panjkota
+- Franjo Pehar
+- Ivan Peraić
+- Neven Pintarić
+
