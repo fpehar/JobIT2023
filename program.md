@@ -21,7 +21,7 @@ Otvorenje 1. dana IT karijera Sveučilišta u Zadru
 
 <details>
   <summary>Ivan Krnić (CROZ): IT Survival Toolkit - što me je zadnjih 20 godina naučilo kako se radi posao?</summary>
-Ivan je već 20 godina dio velikog IT cirkusa u kojem se trendovi mijenjaju, metodologije reinventaju, a tehnologije dolaze i odlaze. Kako navigirati u okruženju u kojem baš nikad nisi naučio sve, kako napredovati tehnički, kako se razvijati osobno... i kako pritom ostati normalan? Dođite i poslušajte jedno real-life iskustvo, a usput i procijenite je li uspio u ovom zadnjem.
+<strong>Ivan</strong> je već 20 godina dio velikog IT cirkusa u kojem se trendovi mijenjaju, metodologije reinventaju, a tehnologije dolaze i odlaze. Kako navigirati u okruženju u kojem baš nikad nisi naučio sve, kako napredovati tehnički, kako se razvijati osobno... i kako pritom ostati normalan? Dođite i poslušajte jedno real-life iskustvo, a usput i procijenite je li uspio u ovom zadnjem.
 </details>
 
 ---
