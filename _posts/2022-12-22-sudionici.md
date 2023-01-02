@@ -7,8 +7,6 @@ share-img: /assets/img/bridge.jpg
 tags: [sudionici, studenti, učenici, srednjoškolci]
 ---
 
-# Informacije za studente i ostale sudionike
-
 Pridruži nam se na JobIT 2023. danu IT karijera i uspostavi kontakte s predstavnicima tvrtki iz IT sektora. Tko zna, možda među njima prepoznaš potencijalnog poslodavca ili dobiješ ideju za buduću karijeru!?
 
 **Kada**: 12. 1. 2023. s početkom u 13:00
