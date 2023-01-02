@@ -1,4 +1,12 @@
-# Popis aktivno uključenih tvrtki
+---
+layout: page
+title: Popis aktivno uključenih tvrtki
+cover-img: /assets/img/bridge.jpg
+share-img: /assets/img/path.jpg
+tags: [JobIT 2023, sudionici, tvrtke]
+---
+
+# Tvrtke i ostale vrste organizacija
 
 - Alfatec
 - Cognism d.o.o
@@ -8,6 +16,4 @@
 - OTP banka Hrvatska d.d.
 - Rentlio d.o.o.
 - WOD Software Solutions d.o.o.
-
-# Popis aktivno uključenih ustanova i udruga
 - Zadar Developers Hub
