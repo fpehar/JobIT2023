@@ -37,13 +37,24 @@ Otvorenje 1. dana IT karijera Sveučilišta u Zadru
 
 <details>
     <summary>  
-🧑‍🎓 Alumni: Gdje sam nakon studija?
+🧑‍🎓 Alumni I: Gdje sam nakon studija IT-a?
      </summary>
 Gdje su danas neki od naših bivših studenata, koje im je trenutno zanimanje i zašto su se odlučili dalje razvijati karijeru u odabranom području IT-a?
 </details>
 
 <details>
     <summary>  
+   
+<details>
+    <summary>  
+🧑‍🎓 Alumni II: "Kosi hitac" ili kako sam nakon studija završio/la u IT-u?
+     </summary>
+"Kosi" ulasci u brzorastuće područje IKT-a nisu više nikakva rijetkost ili kuriozitet. Brojni su primjeri naših bivših studenata koji su završili studijske programe izvan tehničkog područja, ali čije kompetencije su prepoznate od strane tvrtki u IT sektoru. 
+</details>
+
+<details>
+    <summary>
+      
 💡 Lokalna zajednica: Kako osnažiti lokalnu IT zajednicu i što možemo naučiti od drugih?
      </summary>
 Brojni primjeri svjedoče o važnosti snažne i dobro povezane tehnološke zajednice kao jednog od glavnih pokretača gospodarskog razvoja i tehnološkog rasta, npr. Silicijska dolina i Salt Lake City u SAD-u, Thames dolina u Velikoj Britaniji i dr. 
