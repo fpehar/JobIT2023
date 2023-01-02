@@ -32,7 +32,7 @@ Ivan je već 20 godina dio velikog IT cirkusa u kojem se trendovi mijenjaju, met
     <summary>
 🧑‍🎓 Studentska praksa: Što smo naučili na studentskoj praksi?
     </summary>
-Dino Damjanović i Luka Filipović, studenti treće godine Stručnog preddiplomskog studija informacijskih tehnologija, prenijet će iskustva stečena tijekom strukturirane i mentorirane stručne prakse čiji je cilj bio razviti potpuno funkcionalan digitalni proizvod. Rješenje razvijeno u sklopu studentske prakse je lansirano i danas ima svoje sretne korisnike. 
+<strong>Dino Damjanović</strong> i <strong>Luka Filipović</strong>, studenti treće godine Stručnog preddiplomskog studija informacijskih tehnologija, prenijet će iskustva stečena tijekom strukturirane i mentorirane stručne prakse čiji je cilj bio razviti potpuno funkcionalan digitalni proizvod. Rješenje razvijeno u sklopu studentske prakse je lansirano i danas ima svoje sretne korisnike. 
 </details>
 
 <details>
@@ -48,7 +48,7 @@ Gdje su danas neki od naših bivših studenata, koje im je trenutno zanimanje i 
      </summary>
 Brojni primjeri svjedoče o važnosti snažne i dobro povezane tehnološke zajednice kao jednog od glavnih pokretača gospodarskog razvoja i tehnološkog rasta, npr. Silicijska dolina i Salt Lake City u SAD-u, Thames dolina u Velikoj Britaniji i dr. 
 Koja je uloga IT hubova i na koji način mogu doprinijeti rastu i razvoju lokalne tech-scene? 
-Svoja razmišljanja i pogled u budućnost prenijeti će nam Ive Botunac iz Zadar Developers Huba i Tomislav Jakopec koji sustavno prati fenomen zvan Osijek Software City.
+Svoja razmišljanja i pogled u budućnost prenijeti će nam <strong>Ive Botunac</strong> iz Zadar Developers Huba i <strong>Tomislav Jakopec</strong> koji sustavno prati fenomen zvan Osijek Software City.
   
 </details>
 ---
