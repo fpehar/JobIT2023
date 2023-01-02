@@ -51,14 +51,13 @@ Gdje su danas neki od naših bivših studenata, koje im je trenutno zanimanje i 
 
 <details>
     <summary>
-      
 💡 Lokalna zajednica: Kako osnažiti lokalnu IT zajednicu i što možemo naučiti od drugih?
      </summary>
 Brojni primjeri svjedoče o važnosti snažne i dobro povezane tehnološke zajednice kao jednog od glavnih pokretača gospodarskog razvoja i tehnološkog rasta, npr. Silicijska dolina i Salt Lake City u SAD-u, Thames dolina u Velikoj Britaniji i dr. 
 Koja je uloga IT hubova i na koji način mogu doprinijeti rastu i razvoju lokalne tech-scene? 
 Svoja razmišljanja i pogled u budućnost prenijeti će nam <strong>Ive Botunac</strong> iz Zadar Developers Huba i <strong>Tomislav Jakopec</strong> koji sustavno prati fenomen zvan Osijek Software City.
-  
 </details>
+
 ---
 
 **15:00 - 16:00 - 🪟 ZD-IT kroki: Interaktivna predstavljanja zadarskih IT tvrtki**
