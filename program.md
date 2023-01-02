@@ -41,9 +41,6 @@ Otvorenje 1. dana IT karijera Sveučilišta u Zadru
      </summary>
 Gdje su danas neki od naših bivših studenata, koje im je trenutno zanimanje i zašto su se odlučili dalje razvijati karijeru u odabranom području IT-a?
 </details>
-
-<details>
-    <summary>  
    
 <details>
     <summary>  
