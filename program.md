@@ -11,6 +11,8 @@ tags: [program, JobIT 2023]
 {: .box-note}
 Ako ti se žuri, putuj sam. Ako želiš stići daleko, putuj u društvu.
 
+**12:30-13:00 - Obilazak izložbenih štandova tvrtki**
+
 **13:00-13:15 - JobIT 2023. kick-off**
 
 Otvorenje 1. dana IT karijera Sveučilišta u Zadru
