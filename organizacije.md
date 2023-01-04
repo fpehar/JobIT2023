@@ -33,14 +33,14 @@ tags: [JobIT 2023, sudionici, tvrtke]
 <p><em>Speed dating</em> predstavnik tvrtke: <strong>Ante Miočić</strong>, Senior Software Developer</p>
 <a href="https://www.alfatec.ai/" target="_blank">https://www.alfatec.ai/</a><br />
 
-<img src="assets/img/Alfatec2.jpg" alt="Alfatec group d.o.o." width="200" height="auto">
+<img src="/assets/img/Alfatec2.jpg" alt="Alfatec group d.o.o." width="200" height="auto">
 </details>
 
 ### Cognism d.o.o.
 *We give you mobile phone numbers and B2B emails of people you want to do business with*
 <details>
   <summary>Više informacija</summary>
-<img src="./assets/img/Cognism.png" alt="Cognism d.o.o." width="200" height="auto">
+<img src="/assets/img/Cognism.png" alt="Cognism d.o.o." width="200" height="auto">
 <p>We’re an international team who are passionate about data and the role it can play in prospecting.</p>
 
 <p>We are working to provide transformative solutions to help revenue teams drive predictable lead generation and improve conversions across all your sales engagements.</p>
@@ -59,7 +59,7 @@ tags: [JobIT 2023, sudionici, tvrtke]
 *Karijere inspirirane morem* 
 <details>
   <summary>Više informacija</summary>
-<img src="./assets/img/Cromaris_disperadun.png" alt="Cromaris d.d" width="auto" height="120">
+<img src="/assets/img/Cromaris_disperadun.png" alt="Cromaris d.d" width="auto" height="120">
   <p>Cromaris je lider u proizvodnji i preradi premium mediteranske ribe vrhunske kvalitete i šesta kompanija u uzgoju brancina i orade na svijetu po količini proizvodnje, a ujedno i najbrže rastuća kompanija s trendom daljnjega rasta.</p>
 <p>IT odjel Cromarisa se sastoji od 2 tima - SAP aplikativne podrške  i sistemske podrške. U SAP podršci razvijamo kadrove kao poslovne IT konzultante, a naši sistemaši uz  standardne sistemaške poslove (serveri, mreža, korisnička podrška), bave se svakodnevno i sa specijalnom industrijskom IT opremom. Oba tima sudjeluju u razvoju jedinstvenih i zanimljivih rješenja.</p>
     <p><strong>Poziv sudionicima:</strong> Ako želite raditi s vrhunskim tehnologijama i ostati živjeti u Zadru, Cromaris je mjesto za vas. U našem timu sistemske podrške, naučit ćete o instalaciji servera (failover cluster, virtualizacija, AD, skriptiranje...), naprednom konfiguriranju mreže, radu sa specijalnom industrijskom IT opremom i raznim senzorima. </p>
@@ -72,7 +72,7 @@ tags: [JobIT 2023, sudionici, tvrtke]
 
 <details>
   <summary>Više informacija</summary>
-<img src="./assets/img/Digacon.png" alt="Digacon Software Solutions d.o.o." width="auto" height="120">
+<img src="/assets/img/Digacon.png" alt="Digacon Software Solutions d.o.o." width="auto" height="120">
   <p>Digacon's vision is to be a long-term partner in the process of digital transformation for medium-sized companies in the EU / DACH market, including several industries, especially the automotive and construction industries. The vision includes the goal of transforming partner preferences into full-fledged joint ventures in the form of digital companies and software products.</p>
 <p>Currently, we have offices in Zagreb and Zadar and counting 42 employees.</p>
 <p><strong>Poziv sudionicima:</strong> Želimo pojačati IT zajednicu u Zadru! :) </p>
@@ -84,7 +84,7 @@ tags: [JobIT 2023, sudionici, tvrtke]
 
 <details>
   <summary>Više informacija</summary>
-<img src="./assets/img/FERProjekt.png" alt="Fer projekt d.o.o." width="auto" height="120">
+<img src="/assets/img/FERProjekt.png" alt="Fer projekt d.o.o." width="auto" height="120">
   <p>FER PROJEKT je tvrtka čija je osnovna djelatnost osmišljavanje i izrada prezentacije Vaše tvrtke, proizvoda ili djelatnosti na webu.</p>
 <p><strong>Poziv sudionicima:</strong> Naša ekipa majstora/ica svog zanata nastojat će vam približiti poslove i projekte s kojima se bavimo, a visokomotiviranim, talentiranim i ambicioznim osobama možemo ponuditi stručnu praksu i/ili zaposlenje.</p>
 <p>*Speed dating* predstavnik tvrtke: Robert Badurina, CTO</p>
@@ -108,7 +108,7 @@ tags: [JobIT 2023, sudionici, tvrtke]
 *Mi smo maverik, entuzijasti industrijske automatizacije željni učenja i podučavanja, inovacija i poboljšanja!*
 <details>
   <summary>Više informacija</summary>
-  <img src="./assets/img/Maverik.png" alt="Maverik d.o.o." width="auto" height="120">
+  <img src="/assets/img/Maverik.png" alt="Maverik d.o.o." width="auto" height="120">
 <p>Maverik nudi “ključ u ruke” rješenja za industrijsku automatizaciju. Trenutno razvijamo startup gloglo - mobilni samoposlužni točionik.</p>
 <p><strong>Poziv sudionicima:</strong> Zadarski hardware startup koji razvija gloglo – mobilni samoposlužni točionik. Navrati na pivo!</p>
 
@@ -129,7 +129,7 @@ tags: [JobIT 2023, sudionici, tvrtke]
 
 <details>
   <summary>Više informacija</summary>
-<img src="./assets/img/Rentlio.jpg" alt="Rentlio d.o.o." width="auto" height="120">
+<img src="/assets/img/Rentlio.jpg" alt="Rentlio d.o.o." width="auto" height="120">
   <p>Rentlio je globalno SaaS property management rješenje s korisnicima u više od 40 zemalja svijeta. Nudi niz naprednih rješenja za hotelijere, property managere i iznajmljivače kako bi kvalitetno upravljali svojim objektima, uprihodili više i pružili vrhunsku uslugu svojim gostima. Nedavno je, sredinom 2022. godine, Rentlio ostvario investiciju od strane Infinum Ventures, investicijskog ogranka vodeće hrvatske tehnološke kompanije Infinum. </p>
 
 <p>Rješavamo konkretan problem kroz automatizaciju i optimizaciju iznimno kompleksnih operativnih procesa. Zaljubljenici smo u tehnologiju kojom mijenjamo jednu od najmanje digitaliziranih industrija današnjice – turizam.</p>
@@ -156,7 +156,7 @@ tags: [JobIT 2023, sudionici, tvrtke]
 
 <details>
   <summary>Više informacija</summary>
-<img src="./assets/img/WOD-partner.png" alt="WOD Software Solutions d.o.o." width="auto" height="120">
+<img src="/assets/img/WOD-partner.png" alt="WOD Software Solutions d.o.o." width="auto" height="120">
   <p>Naša specijalnost je razvoj enterprise sustava po mjeri korisnika, pri čemu stavljamo veliki naglasak na tehnološku izvrsnost.
 U tako zahtjevnim i vrlo složenim poslovnim okruženjima pružamo cjelovitu uslugu, od analize poslovanja do implementacije sustava i konzaltinga.</p>
 
@@ -175,7 +175,7 @@ U tako zahtjevnim i vrlo složenim poslovnim okruženjima pružamo cjelovitu usl
 
 <details>
   <summary>Više informacija</summary>
-  <img src="./assets/img/ZdDevHub.png" alt="WOD Software Solutions d.o.o." width="auto" height="120">
+  <img src="/assets/img/ZdDevHub.png" alt="WOD Software Solutions d.o.o." width="auto" height="120">
 <p>Zadar Developers Hub pokrenula je grupa entuzijasta u svrhu stvaranja okvira za druženje i učenje o informacijskih tehnologijama, s posebnim naglaskom na razvojne i dizajnerske alate. Cilj nam je povezati ljude u zadarskoj regiji koji dijele interes prema informacijskim i komunikacijskim tehnologijama, njihovom razvoju i primjenjivosti. Želimo učiti i koristiti nove tehnologije te ih iskoristiti za realizaciju novih ideja i rješenja.</p>
 
 <a href="http://www.zadardevelopers.com/" target="_blank">zadardevelopers.com</a>
