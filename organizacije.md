@@ -145,12 +145,12 @@ tags: [JobIT 2023, sudionici, tvrtke]
 <p><strong>Poziv sudionicima:</strong> Saznajte sve o kombinaciji turizma i visoke tehnologije, o izazovima mijenjanja jedne od najmanje digitaliziranih industrija u Hrvatskoj, ali i globalno.</p>
 <p>Saznajte kako Rentlio rješenja mijenjaju uobičajeno poslovanje, zašto su hotelijeri i iznajmljivači zapeli u 90-ima što se tehnologije tiče, i kako Rentlio tim to mijenja. Istovremeno s izazovima u hotelijerstvu i turizmu s kojima se susrećemo, saznajte što nudimo zaposlenima u Rentliju, kako radimo, koje vrijednosti njegujemo u svakodnevnom radu i kako nam možete pomoći.</p>
 
-<a href="https://rentl.io/" target="_blank"><br />
-<a href="https://www.facebook.com/Rentlio/" target="_blank"><br />
-<a href="https://www.instagram.com/rentlio/" target="_blank"><br />
-<a href="https://www.linkedin.com/company/rentlio/mycompany/"  target="_blank"><br />
-<a href="https://www.youtube.com/channel/UCxe9C197-bFD13nY86XbrEA"  target="_blank"><br />
-<a href="https://twitter.com/rentlio" target="_blank"><br />
+<a href="https://rentl.io/" target="_blank">rentl.io</a><br />
+<a href="https://www.facebook.com/Rentlio/" target="_blank">Facebook</a><br />
+<a href="https://www.instagram.com/rentlio/" target="_blank">Instagram</a><br />
+<a href="https://www.linkedin.com/company/rentlio/mycompany/" target="_blank">LinkedIn</a><br />
+<a href="https://www.youtube.com/channel/UCxe9C197-bFD13nY86XbrEA"  target="_blank">youtube.com</a><br />
+<a href="https://twitter.com/rentlio" target="_blank">Twitter</a><br />
     
   </details>
     
