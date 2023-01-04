@@ -46,7 +46,7 @@ Gdje su danas neki od naših bivših studenata, koje im je trenutno zanimanje i 
    
 <details>
     <summary>  
-🧑‍🎓 Alumni II: "Kosi hitac" ili kako sam nakon studija završio/la u IT-u?
+🧑‍🎓 Alumni II: "Kosi hitac" ili kako sam završio/la u IT-u?
      </summary>
 "Kosi" ulasci u brzorastuće područje IKT-a nisu više nikakva rijetkost ili kuriozitet. Brojni su primjeri naših bivših studenata koji su završili studijske programe izvan tehničkog područja, ali čije kompetencije su prepoznate od strane tvrtki u IT sektoru. 
 </details>
