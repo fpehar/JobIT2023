@@ -33,7 +33,7 @@ tags: [JobIT 2023, sudionici, tvrtke]
 <p><em>Speed dating</em> predstavnik tvrtke: <strong>Ante Miočić</strong>, Senior Software Developer</p>
 <a href="https://www.alfatec.ai/" target="_blank">https://www.alfatec.ai/</a><br />
 
-<img src="./assets/img/Alfatec2.jpg" alt="Alfatec group d.o.o." width="200" height="auto">
+<img src="assets/img/Alfatec2.jpg" alt="Alfatec group d.o.o." width="200" height="auto">
 </details>
 
 ### Cognism d.o.o.
