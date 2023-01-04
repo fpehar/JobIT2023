@@ -20,9 +20,7 @@ tags: [JobIT 2023, sudionici, tvrtke]
 - WOD Software Solutions d.o.o.
 - Zadar Developers Hub
 
-## Saznajte više o našim izlagačima
-
-### Alfatec group d.o.o.
+## Alfatec group d.o.o.
 *The Future, Enlightened.*
 <details>
   <summary>Više informacija</summary>
@@ -36,7 +34,7 @@ tags: [JobIT 2023, sudionici, tvrtke]
 <img src="/assets/img/Alfatec2.jpg" alt="Alfatec group d.o.o." width="200" height="auto">
 </details>
 
-### Cognism d.o.o.
+## Cognism d.o.o.
 *We give you mobile phone numbers and B2B emails of people you want to do business with*
 <details>
   <summary>Više informacija</summary>
@@ -55,7 +53,7 @@ tags: [JobIT 2023, sudionici, tvrtke]
 <p><a href="https://cognism.com" target="_blank">cognism.com</a></p>
 </details>
   
-### Cromaris d.d
+## Cromaris d.d
 *Karijere inspirirane morem* 
 <details>
   <summary>Više informacija</summary>
@@ -68,7 +66,7 @@ tags: [JobIT 2023, sudionici, tvrtke]
     <a href="https://cromaris.com/hr/pridruzi-nam-se/" target="_blank">cromaris.com</a>
 </details>
   
-### Digacon Software Solutions d.o.o.
+## Digacon Software Solutions d.o.o.
 
 <details>
   <summary>Više informacija</summary>
@@ -80,7 +78,7 @@ tags: [JobIT 2023, sudionici, tvrtke]
 <a href="https://digacon-software.com/en/" target="_blank">digacon-software.com</a>
 </details>
   
-### Fer projekt d.o.o.
+## Fer projekt d.o.o.
 
 <details>
   <summary>Više informacija</summary>
@@ -91,7 +89,7 @@ tags: [JobIT 2023, sudionici, tvrtke]
 <a href="https://www.fer-projekt.com/" target="_blank">fer-projekt.com</a>
 </details>
     
-### Helmholz sistemi d.o.o.
+## Helmholz sistemi d.o.o.
 *Compatible with you*
 
 <details>
@@ -104,7 +102,7 @@ tags: [JobIT 2023, sudionici, tvrtke]
 <a href="https://www.helmholz.de" target="_blank">helmholz.de</a>
 </details>
     
-### Maverik d.o.o.
+## Maverik d.o.o.
 *Mi smo maverik, entuzijasti industrijske automatizacije željni učenja i podučavanja, inovacija i poboljšanja!*
 <details>
   <summary>Više informacija</summary>
@@ -118,13 +116,13 @@ tags: [JobIT 2023, sudionici, tvrtke]
 <a href="https://www.gloglo.rocks" target="_blank">gloglo.rocks</a>
 </details>
         
-### OTP banka Hrvatska d.d.
+## OTP banka Hrvatska d.d.
 <details>
   <summary>Više informacija</summary>
     
 </details>
     
-### Rentlio d.o.o.
+## Rentlio d.o.o.
 *Hospitality empowered by technology*  
 
 <details>
@@ -151,7 +149,7 @@ tags: [JobIT 2023, sudionici, tvrtke]
 <a href="https://twitter.com/rentlio" target="_blank">Twitter</a><br />
 </details>
     
-### WOD Software Solutions d.o.o.
+## WOD Software Solutions d.o.o.
 *We Own Delivery*
 
 <details>
@@ -171,7 +169,7 @@ U tako zahtjevnim i vrlo složenim poslovnim okruženjima pružamo cjelovitu usl
 <a href="https://www.linkedin.com/company/wod-software-solutions/" target="_blank">wod-software-solutions</a>
 </details>
 
-### Zadar Developers Hub
+## Zadar Developers Hub
 
 <details>
   <summary>Više informacija</summary>
