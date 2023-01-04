@@ -76,7 +76,7 @@ Zainteresirani sudionici se mogu se prijaviti za sudjelovanje na *speed dating* 
 
 ---
 
-**16:00 do 17:30 ‼️ Štandiranje i 🥪🍷 druženje uz spizu**
+**16:00 do 17:30 ‼️ Štandiranje i druženje uz spizu**🥪🍷 
 
 Sudionici mogu posjetiti predstavnike različitih IT tvrtki i ustanova na njihovim štandovima te iskoristiti prigodu za upoznavanje i uspostavljanje poslovnim kontakata s s potencijalnim poslodavcima
 
