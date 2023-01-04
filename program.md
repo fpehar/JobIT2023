@@ -84,7 +84,18 @@ Sudionici mogu posjetiti predstavnike različitih IT tvrtki i ustanova na njihov
 
 **17:30 - 18:30 - 👥 Panel rasprava**
 
+<details>
+     <summary>
 Aktualni trendovi i izazovi regrutiranja (talenata) u IT sektoru
+     </summary>
+Sudionici panela: <br />
+1. <strong>Mate Bogović</strong>, osnivač i CEO u WOD Software Solutions d.o.o.<br />
+2. <strong>Ive Botunac</strong>, direktor strateškog razvoja u Alfatec Grupi i predsjednik Udruge za promicanje informacijskih tehnologija "ZADAR DEVELOPERS HUB"<br />
+3. <strong>Danijel Fatović</strong>, viši direktor Direkcije digitalne transformacije u OTP banci d.o.<br />
+4. <strong>Petar Garžina</strong>, suosnivač i engineering manager u Cognism d.o.o.<br />
+5. <strong>Tomislav Jakopec</strong>, voditelj diplomskog studija informacijskih tehnologija na Filozofskom fakultetu Sveučilišta J.J. Strossmayer u Osijeku i član Udruge Osijek Software City<br />
+6. <strong>Marko Mišulić</strong>, osnivač i CEO u Rentlio d.o.o<br />
+</details>
 
 ---
 
