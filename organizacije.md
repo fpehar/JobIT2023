@@ -37,7 +37,6 @@ tags: [JobIT 2023, sudionici, tvrtke]
 
 ### Cognism d.o.o.
 *We give you mobile phone numbers and B2B emails of people you want to do business with*
-
 <details>
   <summary>Više informacija</summary>
 <p>We’re an international team who are passionate about data and the role it can play in prospecting.</p>
@@ -49,15 +48,13 @@ tags: [JobIT 2023, sudionici, tvrtke]
   <p><strong>Poziv sudionicima:</strong> Our team places great value on our working relationships.</p>
 
 <p>Yes, we live and breathe tech, however, we will never overlook the people behind it. We strive to create a space where our teams genuinely want to be, every day. Our people are inclusive, showing respect to one another when going about their work and play.</p>
-
-  <p>As they say, teamwork makes the dream work!</p>
-  <p><em>Speed dating</em> predstavnik tvrtke: <strong>Petar Garžina</strong>, Engineering Manager
-    <a href="https://cognism.com" target="_blank">cognism.com</a>
+<p>As they say, teamwork makes the dream work!</p>
+<p><em>Speed dating</em> predstavnik tvrtke: <strong>Petar Garžina</strong>, Engineering Manager</p>
+<p><a href="https://cognism.com" target="_blank">cognism.com</a></p>
 </details>
   
 ### Cromaris d.d
-*Karijere inspirirane morem*
-    
+*Karijere inspirirane morem* 
 <details>
   <summary>Više informacija</summary>
     <p>Cromaris je lider u proizvodnji i preradi premium mediteranske ribe vrhunske kvalitete i šesta kompanija u uzgoju brancina i orade na svijetu po količini proizvodnje, a ujedno i najbrže rastuća kompanija s trendom daljnjega rasta.</p>
@@ -76,39 +73,33 @@ tags: [JobIT 2023, sudionici, tvrtke]
 <p><strong>Poziv sudionicima:</strong> Želimo pojačati IT zajednicu u Zadru! :) </p>
 <p><em>Speed dating</em> predstavnik tvrtke: <strong>Valentina Ćosić</strong> HR Generalist</p>
 <a href="https://digacon-software.com/en/" target="_blank">digacon-software.com</a>
-    
 </details>
   
 ### Fer projekt d.o.o.
-  <details>
-    <summary>Više informacija</summary>
+<details>
+  <summary>Više informacija</summary>
 <p>FER PROJEKT je tvrtka čija je osnovna djelatnost osmišljavanje i izrada prezentacije Vaše tvrtke, proizvoda ili djelatnosti na webu.</p>
-
-    <p><strong>Poziv sudionicima:</strong> Naša ekipa majstora/ica svog zanata nastojat će vam približiti poslove i projekte s kojima se bavimo, a visokomotiviranim, talentiranim i ambicioznim osobama možemo ponuditi stručnu praksu i/ili zaposlenje.</p>
-
+<p><strong>Poziv sudionicima:</strong> Naša ekipa majstora/ica svog zanata nastojat će vam približiti poslove i projekte s kojima se bavimo, a visokomotiviranim, talentiranim i ambicioznim osobama možemo ponuditi stručnu praksu i/ili zaposlenje.</p>
 <p>*Speed dating* predstavnik tvrtke: Robert Badurina, CTO</p>
 <a href="https://www.fer-projekt.com/" target="_blank">fer-projekt.com</a>
-  </details>
+</details>
     
 ### Helmholz sistemi d.o.o.
 *Compatible with you*
-    
-  <details>
-    <summary>Više informacija</summary>
+<details>
+  <summary>Više informacija</summary>
 <p>Tvrtka Helmholz Sistemi d.o.o. proizvodi opremu za automatizaciju u industriji. Naš ured u Zadru sastoji se od hardverskog i softverskog odjela koji radi na razvoju "Industry 4.0" uređaja. Između ostalog naš najveći fokus je na industrijskom firewallu WallIE i Flextra Profinet managed switchu.</p>
 
 <p><strong>Poziv sudionicima:</strong> Ako želite doznati više o 4. industrijskoj revoluciji i uređajima koji će omogućiti tranziciju, posjetite naš štand i porazgovarajte s našim inženjerima!</p>
 
 <a href="https://www.helmholz.hr" target="_blank">helmholz.hr</a><br />
 <a href="https://www.helmholz.de" target="_blank">helmholz.de</a>
-    
-  </details>
+</details>
     
 ### Maverik d.o.o.
 *Mi smo maverik, entuzijasti industrijske automatizacije željni učenja i podučavanja, inovacija i poboljšanja!*
-    
-  <details>
-    <summary>Više informacija</summary>
+<details>
+  <summary>Više informacija</summary>
 <p>Maverik nudi “ključ u ruke” rješenja za industrijsku automatizaciju. Trenutno razvijamo startup gloglo - mobilni samoposlužni točionik.</p>
 <p><strong>Poziv sudionicima:</strong> Zadarski hardware startup koji razvija gloglo – mobilni samoposlužni točionik. Navrati na pivo!</p>
 
@@ -116,22 +107,18 @@ tags: [JobIT 2023, sudionici, tvrtke]
 
 <a href="https://www.maverik.hr" traget="_blank">maverik.hr</a> <br />
 <a href="https://www.gloglo.rocks" target="_blank">gloglo.rocks</a>
-    
-  </details>
-    
-    
+</details>
+        
 ### OTP banka Hrvatska d.d.
-  <details>
-    <summary>Više informacija</summary>
+<details>
+  <summary>Više informacija</summary>
     
-    
-  </details>
+</details>
     
 ### Rentlio d.o.o.
-*Hospitality empowered by technology*
-    
-  <details>
-    <summary>Više informacija</summary>
+*Hospitality empowered by technology*  
+<details>
+  <summary>Više informacija</summary>
 <p>Rentlio je globalno SaaS property management rješenje s korisnicima u više od 40 zemalja svijeta. Nudi niz naprednih rješenja za hotelijere, property managere i iznajmljivače kako bi kvalitetno upravljali svojim objektima, uprihodili više i pružili vrhunsku uslugu svojim gostima. Nedavno je, sredinom 2022. godine, Rentlio ostvario investiciju od strane Infinum Ventures, investicijskog ogranka vodeće hrvatske tehnološke kompanije Infinum. </p>
 
 <p>Rješavamo konkretan problem kroz automatizaciju i optimizaciju iznimno kompleksnih operativnih procesa. Zaljubljenici smo u tehnologiju kojom mijenjamo jednu od najmanje digitaliziranih industrija današnjice – turizam.</p>
@@ -151,14 +138,12 @@ tags: [JobIT 2023, sudionici, tvrtke]
 <a href="https://www.linkedin.com/company/rentlio/mycompany/" target="_blank">LinkedIn</a><br />
 <a href="https://www.youtube.com/channel/UCxe9C197-bFD13nY86XbrEA"  target="_blank">youtube.com</a><br />
 <a href="https://twitter.com/rentlio" target="_blank">Twitter</a><br />
-    
-  </details>
+</details>
     
 ### WOD Software Solutions d.o.o.
 *We Own Delivery*
-  
-  <details>
-    <summary>Više informacija</summary>
+<details>
+  <summary>Više informacija</summary>
 <p>Naša specijalnost je razvoj enterprise sustava po mjeri korisnika, pri čemu stavljamo veliki naglasak na tehnološku izvrsnost.
 U tako zahtjevnim i vrlo složenim poslovnim okruženjima pružamo cjelovitu uslugu, od analize poslovanja do implementacije sustava i konzaltinga.</p>
 
@@ -171,14 +156,13 @@ U tako zahtjevnim i vrlo složenim poslovnim okruženjima pružamo cjelovitu usl
 <p><em>Speed dating</em> predstavnik tvrtke: Mate Bogovič / osnivač</p>
 
 <a href="https://www.linkedin.com/company/wod-software-solutions/" target="_blank">wod-software-solutions</a>
-    
-  </details>
+</details>
 
 ### Zadar Developers Hub
-  <details>
-    <summary>Više informacija</summary>
+<details>
+  <summary>Više informacija</summary>
 <p>Zadar Developers Hub pokrenula je grupa entuzijasta u svrhu stvaranja okvira za druženje i učenje o informacijskih tehnologijama, s posebnim naglaskom na razvojne i dizajnerske alate. Cilj nam je povezati ljude u zadarskoj regiji koji dijele interes prema informacijskim i komunikacijskim tehnologijama, njihovom razvoju i primjenjivosti. Želimo učiti i koristiti nove tehnologije te ih iskoristiti za realizaciju novih ideja i rješenja.</p>
 
 <a href="http://www.zadardevelopers.com/" target="_blank">zadardevelopers.com</a>
     
-  </details>
+</details>
