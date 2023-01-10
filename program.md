@@ -68,7 +68,7 @@ Prijavljene tvrke će se ukratko predstavit javnosti i na atraktivan način pozv
 
 ---
 
-**16:00 - 17.30 - Povezivanje i umrežavanje**
+**16:00 - 17.00 - Povezivanje i umrežavanje**
 
 **16:00-16:30 🗣️ Brzinski IT-spoj**
 
@@ -76,13 +76,13 @@ Zainteresirani sudionici se mogu se prijaviti za sudjelovanje na *speed dating* 
 
 ---
 
-**16:00 do 17:30 ‼️ Štandiranje i druženje uz spizu**🥪🍷 
+**16:30 do 17:00 ‼️ Štandiranje i druženje uz spizu**🥪🍷 
 
 Sudionici mogu posjetiti predstavnike različitih IT tvrtki i ustanova na njihovim štandovima te iskoristiti prigodu za upoznavanje i uspostavljanje poslovnim kontakata s s potencijalnim poslodavcima
 
 ---
 
-**17:30 - 18:30 - 👥 Panel rasprava**
+**17:00 - 18:00 - 👥 Panel rasprava**
 
 <details>
      <summary>
@@ -99,7 +99,7 @@ Sudionici panela: <br />
 
 ---
 
-**18:30 - 18:45 - Zatvaranje i najava JobIT 2024.**
+**18:00 - 18:15 - Zatvaranje i najava JobIT 2024.**
 
 ---
 
