@@ -121,6 +121,8 @@ tags: [JobIT 2023, sudionici, tvrtke]
 <details>
   <summary>Više informacija</summary>
 <p>Locastic je agencija specijalizirana za razvoj web i mobilnih aplikacija te savjetovanje - prisutna na tržištu od 2010. godine. Mladi tim stručnjaka čine programeri, dizajneri, projekt menadžeri i UX stručnjaci sa višegodišnjim iskustvom u svom području. </p>
+  
+     <p><em>Speed dating</em> predstavnik tvrtke: <strong>Toni Milicevic</strong> / Voditelj marketinga</p>
 
 <a href="https://www.locastic.com" target="_blank">locastic.com</a><br />
 </details>
