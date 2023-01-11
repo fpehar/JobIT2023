@@ -41,14 +41,17 @@ Otvorenje 1. dana IT karijera Sveučilišta u Zadru
     <summary>  
 🧑‍🎓 Alumni I: Gdje sam nakon studija IT-a?
      </summary>
-Gdje su danas neki od naših bivših studenata, koje im je trenutno zanimanje i zašto su se odlučili dalje razvijati karijeru u odabranom području IT-a?
+Gdje su danas neki od naših bivših studenata, koje im je trenutno zanimanje i zašto su se odlučili dalje razvijati karijeru u odabranom području IT-a?<br />
+  Marko Džepina prikazat će vlastiti razvojni put koji ga je doveo do voditelja SRE-a u tvrtci Cognism. Poznavajući Marka, možemo očekivati provokativno izlaganje i diskurs u maniri "Another brick in the wall" grupe Pink Floyd.
 </details>
    
 <details>
     <summary>  
 🧑‍🎓 Alumni II: "Kosi hitac" ili kako sam završio/la u IT-u?
      </summary>
-"Kosi" ulasci u brzorastuće područje IKT-a nisu više nikakva rijetkost ili kuriozitet. Brojni su primjeri naših bivših studenata koji su završili studijske programe izvan tehničkog područja, ali čije kompetencije su prepoznate od strane tvrtki u IT sektoru. 
+"Kosi" ulasci u brzorastuće područje IKT-a nisu više nikakva rijetkost ili kuriozitet. Brojni su primjeri naših bivših studenata koji su završili studijske programe izvan tehničkog područja, ali čije kompetencije su prepoznate od strane tvrtki u IT sektoru. <br />
+Naši bivši studenti informacijskih znanosti, Lucija Kraljev (Cognism) i Josip Subašić (Rentlio), ispričat će svoje autentične priče kako su nakon stjecanja zvanja u području informacijskih znanosti završili u renomiranim zadarskim IT tvrtkama.<br />
+<br />
 </details>
 
 <details>
