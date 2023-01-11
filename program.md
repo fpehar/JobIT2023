@@ -59,7 +59,7 @@ Naši bivši studenti informacijskih znanosti, <strong>Lucija Kraljev</strong> (
 💡 Lokalna zajednica: Kako osnažiti lokalnu IT zajednicu i što možemo naučiti od drugih?
      </summary>
 Brojni primjeri svjedoče o važnosti snažne i dobro povezane tehnološke zajednice kao jednog od glavnih pokretača gospodarskog razvoja i tehnološkog rasta, npr. Silicijska dolina i Salt Lake City u SAD-u, Thames dolina u Velikoj Britaniji i dr. 
-Koja je uloga IT hubova i na koji način mogu doprinijeti rastu i razvoju lokalne tech-scene? 
+Koja je uloga IT hubova i na koji način mogu doprinijeti rastu i razvoju lokalne tech-scene? <br />
 Svoja razmišljanja i pogled u budućnost prenijeti će nam <strong>Ive Botunac</strong> iz Zadar Developers Huba i <strong>Tomislav Jakopec</strong> koji sustavno prati fenomen zvan Osijek Software City.
 </details>
 
