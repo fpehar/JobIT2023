@@ -13,6 +13,7 @@ tags: [JobIT 2023, sudionici, tvrtke]
 - Cromaris d.d
 - Digacon Software Solutions d.o.o.
 - Fer projekt d.o.o.
+- Financijska agencija - FINA
 - Helmholz sistemi d.o.o.
 - Maverik d.o.o.
 - OTP banka Hrvatska d.d.
@@ -87,6 +88,17 @@ tags: [JobIT 2023, sudionici, tvrtke]
 <p><strong>Poziv sudionicima:</strong> Naša ekipa majstora/ica svog zanata nastojat će vam približiti poslove i projekte s kojima se bavimo, a visokomotiviranim, talentiranim i ambicioznim osobama možemo ponuditi stručnu praksu i/ili zaposlenje.</p>
 <p>*Speed dating* predstavnik tvrtke: Robert Badurina, CTO</p>
 <a href="https://www.fer-projekt.com/" target="_blank">fer-projekt.com</a>
+</details>
+
+## Financijska agencija - FINA
+
+<details>
+  <summary>Više informacija</summary>
+<!-- <img src="/assets/img/Fina_logo_slika_RGB.jpg" alt="FINA" width="200" height="auto"> -->
+  <p>Financijska agencija je vodeća hrvatska tvrtka na području pružanja financijskih i elektroničkih usluga. Nacionalna pokrivenost, informatički sustav prokušan na najzahtjevnijim poslovima od nacionalne važnosti te profesionalnost stručnih timova omogućuju pripremu i provedbu različitih projekata, od jednostavnih financijskih transakcija do najsofisticiranijih poslova u elektroničkom poslovanju.
+</p>
+<p>*Speed dating* predstavnik tvrtke: Anamarija Lacković - Voditeljica  Odjel za razvoj aplikativnih rješenja</p>
+<a href="https://www.fina.hr" target="_blank">fina.hr</a>
 </details>
     
 ## Helmholz sistemi d.o.o.
