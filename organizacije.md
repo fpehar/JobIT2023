@@ -142,9 +142,22 @@ tags: [JobIT 2023, sudionici, tvrtke]
 </details>
         
 ## OTP banka Hrvatska d.d.
+*Može i drugačije*
 <details>
   <summary>Više informacija</summary>
-    
+<p>OTP banka je dio najbrže rastuće financijske institucije u srednjoj i istočnoj Europi, četvrta po veličini banka na hrvatskom tržištu. Preko 2000 zaposlenika brine se za financijske potrebe više od pola milijuna klijenata. Sjedište banke je u Splitu, s centralnim funkcijama i u Zadru i Zagrebu, kao i poslovnim centrima u Varaždinu, Puli, Dubrovniku i Osijeku te poslovnicama u svim dijelovima Hrvatske. Naš razgranat koncept organizacije banke omogućava karijeru i napredovanje u različitim poslovnim područjima na više lokacija u Hrvatskoj.  Mi smo banka novog vremena, usmjerena na svoje korisnike. Prepoznati smo kao društveno odgovorna, napredna i digitalna organizacija koja njeguje fleksibilan način rada i brine o ravnoteži privatnog i poslovnog života. Integriramo ESG načela u sve segmente poslovanja, a cilj nam je stvoriti organizaciju u kojoj svatko može prepoznati i razviti svoj potencijal, ostvariti svoje ambicije, dati svoj doprinos i istaknuti se svojim radom. Zato ulažemo trud u izgradnju poticajne radne okoline u kojoj se suradnjom razvijamo, učimo, napredujemo i ispunjavamo očekivanja naših klijenata. Kroz cjelovitu digitalnu transformaciju u koju smo krenuli početkom 2022, stvaramo okvir za inovativna poslovna rješenja i autentično korisničko iskustvo. Kako bismo bili u mogućnosti ostvariti sve navedeno, kontinuirano tražimo najbolje talente za digitalizaciju s kojima želimo zajedno graditi novu digitalnu budućnost banke.</p>
+
+<p><strong>Poziv sudionicima:</strong>Naš je izbor kako ćemo kročiti kroz život. Možemo ići dobro poznatim putovima ili utabati nove, a sve ovisi o odabranoj perspektivi. U OTP banci vjerujemo kako je uvijek moguće i drugačije.</p>
+
+<p>Inovativni ste, kreativni, spremni na poslovne izazove i nova rješenja te imate svjež pogled na postojeće postojeće procese?
+Razmišljate izvan okvira, spremni ste na promjene i stalno usavršavanje koristeći inovativne tehnologije i agilni način rada?</p>
+
+<p>Posjetite nas na štandu OTP banke i upoznajte mogućnosti koje vam banka nudi u području zapošljavanja i organizacije stručnih praksi!</p>
+  
+<p><em>Speed dating</em>: Danijel Fatović, Viši direktor Direkcije digitalne transformacije / Frane Gospić, Digitalni konzultant / Anamarija Milin, Viši specijalist za selekciju / Anita Stojšić, Viši specijalist za upravljanje znanjem, karijerom i iskustvom zaposlenika</p>
+  <a href="https://www.otpbanka.hr" traget="_blank">otpbanka.hr</a> <br />
+<a href="https://hr.linkedin.com/company/otp-banka-hrvatska-d.d." target="_blank">LinkedIn</a><br />
+  <a href="https://www.youtube.com/user/HROTPBanka" target="_blank">YouTube</a>
 </details>
     
 ## Rentlio d.o.o.
