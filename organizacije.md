@@ -15,7 +15,6 @@ tags: [JobIT 2023, sudionici, tvrtke]
 - Fer projekt d.o.o.
 - Financijska agencija - FINA
 - Helmholz sistemi d.o.o.
-- Locastic d.o.o.
 - Maverik d.o.o.
 - OTP banka Hrvatska d.d.
 - Rentlio d.o.o.
@@ -115,17 +114,6 @@ tags: [JobIT 2023, sudionici, tvrtke]
 <a href="https://www.helmholz.de" target="_blank">helmholz.de</a>
 </details>
 
-## Locastic d.o.o.
-*Software solutions for business challenges.*
-
-<details>
-  <summary>Više informacija</summary>
-<p>Locastic je agencija specijalizirana za razvoj web i mobilnih aplikacija te savjetovanje - prisutna na tržištu od 2010. godine. Mladi tim stručnjaka čine programeri, dizajneri, projekt menadžeri i UX stručnjaci sa višegodišnjim iskustvom u svom području. </p>
-  
-     <p><em>Speed dating</em> predstavnik tvrtke: <strong>Toni Milicevic</strong> / Voditelj marketinga</p>
-
-<a href="https://www.locastic.com" target="_blank">locastic.com</a><br />
-</details>
     
 ## Maverik d.o.o.
 *Mi smo maverik, entuzijasti industrijske automatizacije željni učenja i podučavanja, inovacija i poboljšanja!*
